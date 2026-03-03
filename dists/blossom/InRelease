@@ -1,40 +1,47 @@
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA512
 
-Date: Tue, 03 Mar 2026 01:26:15 +0000
+Architectures: amd64 all
+Codename: blossom
+Components: main
+Date: Tue, 03 Mar 2026 02:12:59 +0000
+Description: Eliza Linux Custom Repository
+Label: Eliza Linux Repository
+Origin: Eliza Linux
+Suite: blossom
 MD5Sum:
- 1f9c09477159506d72b3546da517b324               38 Release
+ 63e13a23cd078f34e485d1c2f781bbfe              206 Release
  d12ebecb9409cbcdda371fc6b0928aff             6454 main/binary-all/Packages
  77315098f47466f8adc6fb375d741ffc             2598 main/binary-all/Packages.gz
  1ac79533952b045cafe892727b006008             2598 main/binary-amd64/Packages.gz
 SHA1:
- 8405dfc3e7c6b4712bb24cfa1766bec2cfb9a2f7               38 Release
+ 6ba7cbfc4da814a77a9eac99147798d7844d9a7c              206 Release
  522722c0fcbbde587092a0245fd89fc03f0bf7e2             6454 main/binary-all/Packages
  3eb13e3eccd3b620c9e35c6644ba8694381724ba             2598 main/binary-all/Packages.gz
  713aff0628260885bd99b44d19b3e8f7bd6f1632             2598 main/binary-amd64/Packages.gz
 SHA256:
- f5c3ce062e5b5eeee1ac2809d02195e1f8eea4b6a9d87d0a2d309dc503580b9d               38 Release
+ 2ed612e10c7b66030768bd6a10d2989aa3bc871557dd27aec917a1143b003f61              206 Release
  e619ac57f62a2197d826c7196eefe07f65a65da075822d94f0d098b0883d7b6c             6454 main/binary-all/Packages
  2c4eaa9835032cfd835e44e21c699dcabf6d89839197e611da1da89b973ea5c1             2598 main/binary-all/Packages.gz
  0d796b710c120677f06a2978a18c054c8732c863bda6255c3d897620a5b0dbce             2598 main/binary-amd64/Packages.gz
 SHA512:
- f133795aa673a3d54990acf413b0d26185f854a570e84c2c6f4f3a75db8631af4a56efecf1082b5961a4ec4ba047bce3330fb5ebae7dfa8d4bdc0dfd44b8859d               38 Release
+ f03275f6e3288976481c1cc1c97b97ef68ad5115c4074eb5cf1bd5f26b093ad3b1744d794e26d2ecce85955e9c0c9f568e817ac7464055da0eaaab42928871d1              206 Release
  2afc6f5d7da80e8384dd8fc2b899b67f1517c356d304da31d12e9ba067e5f3582eca080f11cd20a892e903507a1a879cde78bf91aa397042f70c168df6182bee             6454 main/binary-all/Packages
  f3248c2eed3226c4eb715f025a781378106257369349093e6b9c030ce36739c2ec2ad04a6fc701bb05d4494ef16b0c9a3747fb847ef3858a86df695134d5d5c1             2598 main/binary-all/Packages.gz
  7e1fcaea5168bfacecc019a59c2e95b92f2c83a9b0203d8ad8e092863b91b509766755568199aa19c5418af4db009dbad993baab483f4ef26b7da0c58bf77976             2598 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEzETQlAUo6tEwyAk71xOqTxaUjV4FAmmmORIACgkQ1xOqTxaU
-jV4ITw/8CCXfXvU3ZJR8VvP4KUF/GJ5UrSK82/jV9Ra9DETTDW9InTXjTPCWMris
-806CBtm9kMkJ+7pC6uOwVZn+wG1U77wqvZEfVRNyeU7M4BIbtB4jkE5ICK+M9DnI
-Wa8lIc4PAx8hp8cDjgVn7VuCpiVbaCgJ4wzzRky9ErzO8SrehXRD16zuet/m4f38
-sSnTI8HKIaU1c/ZbXhAGhGtiL3W9GVxHzDBc6mkXlBpmcStCSRcPuh7cgPbLSOsM
-rpx0jmT9NNuVZgPpIyVpg82wbYtWqIKL9qvEywl49wZStsbnAg3FjHJM0pEkIh2c
-3zyRCKB3BrAK8n6aezpXyc73oR6pf/icOtDWKwyMSVW9jOEFHmAmHYolEh86yBqh
-Ap8mZ/YNBbXDdEWNY+KnaqQsceRvXZQRTOnaLgPf4uhUMnFGZr3+1iHnaH/v9QQ6
-lqpQ/Gypiq4ONlQI8iqFZA+iyGnkN7MeqMD4vnq0C8m28a8WKOenSiaNdYna/361
-4rm3YlLSFdMIWbvip9gvC8UuyaQE4RNsVVn4sPgcknJmEo5xLIik6sN1uE1MzwFe
-1+PKyUrqGi0rJcUk8wtjvErIrFwUDnQ0KxQ3AQPDtKTSaETQ8w4X0Xy9TLpstZOh
-yS3zMgGSsaEIFl1RNsu+Q2BhXEW5kPdMXaUIqcMcPGrar/5zYio=
-=zDOI
+iQIzBAEBCgAdFiEEzETQlAUo6tEwyAk71xOqTxaUjV4FAmmmQ/EACgkQ1xOqTxaU
+jV4PaA/+IJPYMV91Ddmm7VaZvWLk+8F8tqRoxV6D3bNTJfDuaS70+CX3JqfXvRdQ
+cIKgZwxKRX5lRZZhjz6QxOQd/PpW9+BdxwCuPcpKjZRZH5LkJZUYSXzBaVN5IulW
+cLWZjwX03EKn+ZjMDX6G8CyZQHPTt0Ke8liZr6bFs2CfhOKGfVOPwY32JEANi9z7
+iT2R1vQO0UdMiCx6cDrGaw3vLCpsvxlVQDbqNroCouFK1gkyBxs9rG1ksosOjTBi
+/YBT87J7bUwRl/T/otkN+hfMeKAOQBsDvE5UWUdPVUlWverdcDojqxQQJ8/7qeAM
+/NdQJ3MlI1l/b2WwuoAYMt4grAlomVsoQbJrmFRbAqJtH8gd5N0GFJX1uAmSXcYu
+EFeVzdQi56qQ0Ha7jmxnri286mk6vtxh+YCIAYN1Q5XhhVOZGq23vjmE1LWBJr+c
+xE6m4Ws7eH3MakX20ecQi7NzYnvFpseXetcS/gqIHTcF98xmYjxWs5FFNny/G38Z
+AlZlCku9QC5RsT9Tcee2hR5YWB432GLD11dJvPmV8IZvQdRLz3si4is+o86ZkAIU
+lO8g6Bv58mBoAlSAoCgtUd4HD6fRy2v1kZMmrZkHI3rS9lD0M99yI9W9iUqnPMVi
+SKRJErAas1SalWzwzQ0893HnMMwhfLYjvBfJPIEcitl1xj6PxpY=
+=/GL3
 -----END PGP SIGNATURE-----
