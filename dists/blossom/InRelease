@@ -1,0 +1,51 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Architectures: amd64 all
+Codename: blossom
+Components: main
+Date: Tue, 03 Mar 2026 23:32:27 +0000
+Description: Eliza Linux Custom Repository
+Label: Eliza Linux Repository
+Origin: Eliza Linux
+Suite: blossom
+MD5Sum:
+ c35f0536d8d323bd949fb12033aadbbe              206 Release
+ 99fac94de21711f0c26eed5560c2206b              469 main/binary-all/Packages
+ 8c9e01e65c0f19a19f54879e91229e03             2588 main/binary-all/Packages.gz
+ fa273975aa87ae62671c67c36f3c66be               54 main/binary-amd64/Packages
+ 8c9e01e65c0f19a19f54879e91229e03             2588 main/binary-amd64/Packages.gz
+SHA1:
+ b3de53bb73d628a5c2e4ae571a11bcc663ca196d              206 Release
+ 36a9a63dfc53351b600be49ab407b9a35e94010b              469 main/binary-all/Packages
+ 51af4b800efdbdbbcde9024945d2261e571d51e4             2588 main/binary-all/Packages.gz
+ 1bf88e576313bfaba693ccd0f57bd3d85cb8e313               54 main/binary-amd64/Packages
+ 51af4b800efdbdbbcde9024945d2261e571d51e4             2588 main/binary-amd64/Packages.gz
+SHA256:
+ 437bcd2bae5eefa21dc578b0fb0bb210806753002a64361632d200d95a664c68              206 Release
+ 04c1f3ff80a16811659aa448735cfaeba7a3d763c6f2e88c83a02a345853e3fa              469 main/binary-all/Packages
+ 256df2850d5dc41aaea4806d5a9142b09e6267451d2abb115d858f220bd576a5             2588 main/binary-all/Packages.gz
+ 513ba1fdc7946c1be923dd3d054cd2e1ee7ca884a13c535ff5e05c4d97761788               54 main/binary-amd64/Packages
+ 256df2850d5dc41aaea4806d5a9142b09e6267451d2abb115d858f220bd576a5             2588 main/binary-amd64/Packages.gz
+SHA512:
+ 620ff39651d0ab60f4fe99fef6366acfa9755b800e7ca6f84b2d57b71d5da70a2676bdcbc946f96fbf5c6aeb45119f351c5b355b0ae52bfa674c31f8c19e43c0              206 Release
+ 66800888d0d41f452fc7aa676160775f3bb3fff0c19d196e8becf66562e78334d81f8e917862f4d318090c2fc174cfa4784916ef52832f585f31df3daf743f24              469 main/binary-all/Packages
+ 8a850fb25dcb34ff057acde922a83ab3f9926323ab19b983a96968e394858bb4f4710b2c3b3027feef8fa229a7bbe86262cffcd930465f4e1be982eae6496371             2588 main/binary-all/Packages.gz
+ ee390f72b06291e6b8ab392db33f6b1f0ede6b389291b6be32447f6b562ed8dc703587c9d6344537bfac55fa3c839f41d5dcbd5e94e1d71888a21c610df86ede               54 main/binary-amd64/Packages
+ 8a850fb25dcb34ff057acde922a83ab3f9926323ab19b983a96968e394858bb4f4710b2c3b3027feef8fa229a7bbe86262cffcd930465f4e1be982eae6496371             2588 main/binary-amd64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEzETQlAUo6tEwyAk71xOqTxaUjV4FAmmnb9YACgkQ1xOqTxaU
+jV6C+A/6AsDCYsVgZlMtmHCbU0k6WieQJ/Rc5uM8ZtO60t1Paznbm+0TEI4oJPSr
+6B9wUvrybuLG3/m5bpqvOuYAAjKPJjPfaW13Rbhw1KlU/+94gMKE9pHd4rYNIrTm
+9ZmAEYvgelZLvxCSKi++ddebrZYKUDnZqJRy6xLy19mDdDoTO0PKUYYnTG1giM10
+86YHH2VTegbO4P1yy8PMHa3KvEBPWgTXR82YdoRM579U/xJjx3foerROQvPG2NEl
+8e7lFIaYeafBjGsaG9Ve8j5+N2feCqKN82PqKkxKe9usc0HYeSipZmghzik/o/kP
+qiJRVYxFNU1m3Jhgg3ICaThgSPYvWA6lC919n5YYddEzVu64FXA88/JY5iqALyKV
+7qo2wej4p5Add2cGwiZRP40Wz84UFNpBV+sH7MhYbrO86OWV0qZcWEpbwpJIRhG5
+QEQiaf0Pu1uverjbcH5e6eVmv827YOQGc3qhpPm4h0sYP5YEDnvKUCYH6Xycj8Ni
+WNMzi3Q+DFdrwbN+iFFuCDbOJpsLsho6oKQmlAt75JKwzSdMAVq96ERoZLGXJqzY
+LmI6cMfRwoQw2hqqDMtNCg92MZarE9ma8jcBBYmcHVx2xoyHBdpv9JYx/4DyZB/N
+oqnO+548COSlc10bqyYFbI71Y64Lmm0D+3bC2E1OwMIAQ/V6Nx8=
+=hW7G
+-----END PGP SIGNATURE-----
