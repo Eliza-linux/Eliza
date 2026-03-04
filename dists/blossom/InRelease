@@ -2,44 +2,44 @@
 Hash: SHA512
 
 Origin: Eliza Linux
-Label: Eliza Linux Blossom
-Suite: stable
+Label: Eliza Linux
+Suite: blossom
 Codename: blossom
-Date: Wed, 04 Mar 2026 22:11:37 UTC
+Date: Wed, 04 Mar 2026 22:30:26 UTC
 Architectures: amd64
 Components: main
 Description: Eliza Linux Blossom amd64 repository
 MD5Sum:
  5b704f4b0c0c5a305233f1936f262b82 6624 main/binary-amd64/Packages
  6a8b1817583a81e7503b54ec2293418f 2618 main/binary-amd64/Packages.gz
- 86bce2f7ff1f0c3a31dca6522afe3bfe 149 main/binary-amd64/Release
+ 729ed09451ad7db538393cf0a9a4535d 142 main/binary-amd64/Release
  b9ec08849ac853756b24e38912e4a083 921441 main/Contents-amd64
  9fa6a3bd7ffc6b010cebed24d14cd411 64197 main/Contents-amd64.gz
 SHA1:
  0244efb1a2061927fc7a5ebd62e9296458cd86b9 6624 main/binary-amd64/Packages
  787ea87fd93792507ad36527cc5948b3a5d1ed02 2618 main/binary-amd64/Packages.gz
- f6cbe38ef6e0862b8c08fe7ca42fbd76151f4b45 149 main/binary-amd64/Release
+ 5e6a6b4562f17affc9a1c3f6b0b6523e31529210 142 main/binary-amd64/Release
  bad1c6213de63eda63943a5cbc9c6494435214d1 921441 main/Contents-amd64
  4ee33552e7b6590317097e93dc3cfeb13e47c64f 64197 main/Contents-amd64.gz
 SHA256:
  3561499366a171e27356d443c61ece2201a8bbe681dc094cb61d0e900c8c5b04 6624 main/binary-amd64/Packages
  22c1037d4e2bf2f76adb55779af670e87b243c6ef64ce8b25d88ebacda5bf197 2618 main/binary-amd64/Packages.gz
- b3a82c4bd0daa4fe2ab2f5550bdaf0f9230e8900161567b5eb44e186c248a78d 149 main/binary-amd64/Release
+ ac0b3b89580c44af1ea020b20d3ce85f2f22586f36b0a6c21ef9371c73a1775a 142 main/binary-amd64/Release
  800301fcaa83f0b0b95db0b2219bc3f5623ecda4e14e2a7048cfe8aae710f793 921441 main/Contents-amd64
  3bed607c9d9d21c99879a22f2f2790ea59020bed36ea082a99c10f6314042cc9 64197 main/Contents-amd64.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEzETQlAUo6tEwyAk71xOqTxaUjV4FAmmorhkACgkQ1xOqTxaU
-jV7zDRAAhwiDzrv0uRV+flX9TX/UckBTHKBufjea3phkqCwn0bN1gWob+ysqJlS1
-NBOxMsRWbEiRRSk1vdFQT5ldZQKG1bRGn8fNiQNmp2ToWuA9QX1ScQDqOQO0LiMb
-/PSYjMgyQk9n7tJIjK+ArIgWjG0KqM09BpIs998oipVOcbm6OUOIqWvrYXjeitrB
-EhQzmYGysUxyK7KQ/37qx7jSYjhzalzIsqkgtfYSCiYNhE49Nh/E/VkzPRQbaip3
-RmX7iD2pkR44OCLE2lihVPvNAcobmy1/GFgCOkkUgN7A9+JBrOWvdqxTQko+XhWY
-Pf0TLIsNQbUZM/7jtG0SUFA3KKY7Pl4SxMoHMh4WmdcuZgM8mL2hN00kPPc6Llcg
-DhrZr9/ikE4ritdPuy63YyPxo0RwAslccQ2iT2HlufCuQItG1XNJccTNYoQnLYK9
-vg4Z9UtW3XWxBeyQZs1kC1Nyuf4xN/AZx6CJhlyhPYJtZ5QJXL6/O6Mf8wFT13cm
-BCRH0bkrY3Nf8s5ItGCtZJ9abc4ccZAIk4ULDqqOJw4aPe3MRDZBEw063yT2iYdl
-kqZNBrMsh/9kGgLMlg/4KYcdlmcS2ZKAe8iSW1W5msOE6JqAZhelK0k7ZDr1gtSM
-1Pe4PmZc6t254/9UvmpuRdOghA4B+kLnE7eoR1LKh9V9M/veW90=
-=PLwk
+iQIzBAEBCgAdFiEEzETQlAUo6tEwyAk71xOqTxaUjV4FAmmosoIACgkQ1xOqTxaU
+jV6K9RAAkKvt9Ytx1CTnr8Vr3vsisfRLve8rHMqLZK31IHSg5O00TL4u3H5OKu5b
+QC+35/457zRN1t01nWwz92AlkksNyML95XXlEg5axgPEfri0/ioGLGo7K/Dr9NkP
+bRbgbOw+AYKrj8AWvECKspurMOR62fetzHZTh9y77X1cI6q/soYfBnitaU0Vll3r
+Vx7xgG9P5b0tz2nNHp/QSJVuoRhzzec1Vi6NVXeOXGUQ6P1OdQ4P3SeAAmgwDW5i
+U6BCAn71yoAaB7TSE8nyEWwClVLWbLSNWmonqdk7FmDH1u4mO5L/+hCwT6n+c6kq
+RdO8ms8dRw9Emaqh4domUJFjfVL+Q3eS2HYjM0SVzpP0YDZrfC3njX+mN4MeD41v
+5Xb5dYzop5YUIZm61LOdwHrRFotzffYWuCd66h3AFwj7Ysu1y+MZHk4vTgnfGhyZ
+mgExNFzDHQTiEnT4k1bK38/KDCcSNSXzoRYQSlBG4vE7aGbJlkJQKF+PtoP+KcPy
+jry9SlfpXiOPRneKsnR9SUw8Deb6br0PET11AKazQy6CkJok40xjVZqieqWqJD2o
+QVm50WKb5+GYgAq+0sM0v4KQeQxcxGpOx7swo585mbCHOcgaf0tjOyUSCRyIrNsw
+9feQYV4LrdStXyCt5FBJ1BtvqR46Chre8nBrl3iehG2NPrQfYJI=
+=IN3Z
 -----END PGP SIGNATURE-----
