@@ -1,9 +1,0 @@
-Codename: blossom
-Suite: stable
-Architectures: amd64
-Components: main
-Contents:
-SignWith: CC44D0940528EAD130C8093BD713AA4F16948D5E
-Origin: Eliza Linux
-Label: Eliza Linux Blossom
-Description: Eliza Linux Blossom amd64 repository

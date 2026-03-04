@@ -1,5 +1,0 @@
-Name: blossom
-IncomingDir: incoming
-TempDir: tmp
-Allow: blossom
-Default: blossom
