@@ -1,24 +1,26 @@
-Architectures: amd64 all
-Codename: blossom
-Components: main
-Date: Wed, 04 Mar 2026 02:38:00 +0000
-Description: Eliza Linux Custom Repository
-Label: Eliza Linux Repository
 Origin: Eliza Linux
-Suite: blossom
+Label: Eliza Linux Blossom
+Suite: stable
+Codename: blossom
+Date: Wed, 04 Mar 2026 22:11:37 UTC
+Architectures: amd64
+Components: main
+Description: Eliza Linux Blossom amd64 repository
 MD5Sum:
- b031160477ab02014fbef7232d59ce9d              206 Release
- 00ed335045db97136ea4bfc9c55f37e2             2592 main/binary-all/Packages.gz
- 00ed335045db97136ea4bfc9c55f37e2             2592 main/binary-amd64/Packages.gz
+ 5b704f4b0c0c5a305233f1936f262b82 6624 main/binary-amd64/Packages
+ 6a8b1817583a81e7503b54ec2293418f 2618 main/binary-amd64/Packages.gz
+ 86bce2f7ff1f0c3a31dca6522afe3bfe 149 main/binary-amd64/Release
+ b9ec08849ac853756b24e38912e4a083 921441 main/Contents-amd64
+ 9fa6a3bd7ffc6b010cebed24d14cd411 64197 main/Contents-amd64.gz
 SHA1:
- fe5b65cf7027bbb24e93587c10700f45eb78e587              206 Release
- a5a24727cab18f3898f050e795b6f13ceef66de0             2592 main/binary-all/Packages.gz
- a5a24727cab18f3898f050e795b6f13ceef66de0             2592 main/binary-amd64/Packages.gz
+ 0244efb1a2061927fc7a5ebd62e9296458cd86b9 6624 main/binary-amd64/Packages
+ 787ea87fd93792507ad36527cc5948b3a5d1ed02 2618 main/binary-amd64/Packages.gz
+ f6cbe38ef6e0862b8c08fe7ca42fbd76151f4b45 149 main/binary-amd64/Release
+ bad1c6213de63eda63943a5cbc9c6494435214d1 921441 main/Contents-amd64
+ 4ee33552e7b6590317097e93dc3cfeb13e47c64f 64197 main/Contents-amd64.gz
 SHA256:
- 0a29a6f7fb85ab06364bab0c9f6a028b4c4f1ce71cc8d2cd945ae607791c98fb              206 Release
- e0d0cf6ba6c16e499d81e043b8f72e76816474271c55afc62cbe7b47f8bb9cf2             2592 main/binary-all/Packages.gz
- e0d0cf6ba6c16e499d81e043b8f72e76816474271c55afc62cbe7b47f8bb9cf2             2592 main/binary-amd64/Packages.gz
-SHA512:
- b6aa3489b7e25e911fd30d817e6c659ea4ce33b1c8fe8138d2a881280a9212a947b9eda28262a391660f247b7ae2b2c5cb514561b7ee90fa46d1429e969041a4              206 Release
- 0f31d747422d007741b35cc4eacf4d011cf426332080b986835194906b8b2011f8b11830ee2646235eacca53a80e00ac983fc8a08e69c7eb7e94f965d9956865             2592 main/binary-all/Packages.gz
- 0f31d747422d007741b35cc4eacf4d011cf426332080b986835194906b8b2011f8b11830ee2646235eacca53a80e00ac983fc8a08e69c7eb7e94f965d9956865             2592 main/binary-amd64/Packages.gz
+ 3561499366a171e27356d443c61ece2201a8bbe681dc094cb61d0e900c8c5b04 6624 main/binary-amd64/Packages
+ 22c1037d4e2bf2f76adb55779af670e87b243c6ef64ce8b25d88ebacda5bf197 2618 main/binary-amd64/Packages.gz
+ b3a82c4bd0daa4fe2ab2f5550bdaf0f9230e8900161567b5eb44e186c248a78d 149 main/binary-amd64/Release
+ 800301fcaa83f0b0b95db0b2219bc3f5623ecda4e14e2a7048cfe8aae710f793 921441 main/Contents-amd64
+ 3bed607c9d9d21c99879a22f2f2790ea59020bed36ea082a99c10f6314042cc9 64197 main/Contents-amd64.gz
