@@ -1,0 +1,176 @@
+Package: base-files
+Version: 13.8+deb13u3
+Architecture: amd64
+Essential: yes
+Maintainer: Santiago Vila <sanvila@debian.org>
+Installed-Size: 350
+Pre-Depends: awk
+Breaks: debian-security-support (<< 2019.04.25), initscripts (<< 2.88dsf-13.3), sendfile (<< 2.1b.20080616-5.2~)
+Replaces: base, dpkg (<= 1.15.0), miscutils
+Provides: base, usr-is-merged
+Multi-Arch: foreign
+Priority: required
+Section: admin
+Filename: pool/main/b/base-files/base-files_13.8+deb13u3_amd64.deb
+Size: 73320
+SHA256: f482d39a5f5487997efa4475581e19de0dd93e1efac95be05a04a5e54a556884
+SHA1: 8df9c5f99ad5a7cf6da8c60c57b70e9620921ae5
+MD5sum: e74b4cd79a7dad385daeb2ed9c16ed98
+Description: Debian base system miscellaneous files
+ This package contains the basic filesystem hierarchy of a Debian system, and
+ several important miscellaneous files, such as /etc/debian_version,
+ /etc/host.conf, /etc/issue, /etc/motd, /etc/profile, and others,
+ and the text of several common licenses in use on Debian systems.
+
+Package: beautyline-icon-theme
+Version: 1.0~rc1
+Architecture: all
+Maintainer: Elizabeth <elizabeth@eliza-linux.org>
+Priority: optional
+Section: x11
+Filename: pool/main/b/beautyline-icon-theme/beautyline-icon-theme_1.0~rc1_all.deb
+Size: 3539060
+SHA256: 28753d04c6e5d79ff2dddad0782f3fb8a1dae9293a7f0d21cf0cf2b897d22f41
+SHA1: 953a7d7341efe107cca499b6d21c28d6b5682135
+MD5sum: 6b5cb88e4f9ad6ec75ccb1a38fb2cdd8
+Description: BeautyLine Icon Theme by Sajjad Abdollahzadeh
+ <sajjad606@gmail.com>: https://store.kde.org/p/1425426
+ Includes BeautyLine and BeautyLineSimple icon variants.
+
+Package: eliza-apt
+Version: 1.0
+Architecture: all
+Maintainer: Elizabeth <Elizabeth@eliza-linux.org>
+Priority: optional
+Section: misc
+Filename: pool/main/e/eliza-apt/eliza-apt_1.0_all.deb
+Size: 4520
+SHA256: c98f98fa5c486935d6300404631dbb9fd8340caf70477d20783032dd5b2a3e69
+SHA1: 7d6f46bd6e82df70b16dc6ea9401b8b0e37d3925
+MD5sum: e5ec5882f467abff32aa64c207b7e57b
+Description: Eliza repository GPG key
+ and optional repo list and pinning.
+
+Package: eliza-cursor-settings
+Version: 1.0~rc1
+Installed-Size: 32
+Architecture: all
+Maintainer: Elizabeth <elizabeth@eliza-linux.org>
+Depends: python3, python3-gi, gir1.2-gtk-3.0
+Homepage: https://eliza-linux.org
+Bugs: bugs@eliza-linux.org
+Priority: optional
+Section: utils
+Filename: pool/main/e/eliza-cursor-settings/eliza-cursor-settings_1.0~rc1_all.deb
+Size: 4276
+SHA256: 1e480b824d4668eaae3dc4f8172899da52ed1f530e3d99dc98f4e7cdf0ca14ab
+SHA1: ac9ace277e2efeb4bf16fb6ea685e1233dee28f0
+MD5sum: 3f08ddac2579847b583815a52be0ae64
+Description: Simple cursor settings app for Eliza GNU/Linux
+ A lightweight GTK3 Python app to adjust cursor themes and sizes.
+
+Package: eliza-desktop-base
+Version: 1.0~rc1
+Architecture: all
+Maintainer: Elizabeth <Elizabeth@eliza-linux.org>
+Depends: enlightenment, connman, xserver-xorg-core, xserver-xorg-video-all, xserver-xorg-input-all, lightdm-gtk-greeter-settings, accountsservice, eliza-themes, eliza-grub-conf, eliza-apt, eliza-spacefun, system-config-printer, l3afpad
+Suggests: vim, htop, wget
+Priority: optional
+Section: metapackages
+Filename: pool/main/e/eliza-desktop-base/eliza-desktop-base_1.0~rc1_all.deb
+Size: 2052
+SHA256: 2fd70925afce52377c4da7901163b09782e80945124957fd492ceb724c8963e7
+SHA1: 22dc72034d2544129476f3256c860a9bd985b14a
+MD5sum: b36e9d15c10917db5691982bd793dbce
+Description: Eliza Linux desktop base
+ A meta-package that installs the essential packages for a functional
+ Enlightenment desktop environment in Eliza Linux, along with Eliza-specific
+ customizations. Printer configuration GUI (system-config-printer) and
+ lightweight editor l3afpad are included. Optional applications are
+ provided via eliza-desktop-apps.
+
+Package: eliza-grub-conf
+Version: 1.0~rc1
+Architecture: all
+Maintainer: Elizabeth <elizabeth@eliza-linux.org>
+Priority: optional
+Section: admin
+Filename: pool/main/e/eliza-grub-conf/eliza-grub-conf_1.0~rc1_all.deb
+Size: 416200
+SHA256: a4b37f1adab696bd42d5e9bf65fa3951d554e0d44f9728df33cc8d91af695f90
+SHA1: 10d65b8061f634fe927de8789096931c44d00bb6
+MD5sum: 1dec069a5a83d55f3b3f9a4017f9494a
+Description: Eliza GRUB configuration
+ Installs Eliza default grub conf and splash.
+
+Package: eliza-lockscreen
+Version: 1.0~rc1
+Installed-Size: 20
+Architecture: all
+Maintainer: Elizabeth <elizabeth@eliza-linux.org>
+Depends: xscreensaver
+Homepage: https://eliza-linux.org
+Bugs: bugs@eliza-linux.org
+Priority: optional
+Section: utils
+Filename: pool/main/e/eliza-lockscreen/eliza-lockscreen_1.0~rc1_all.deb
+Size: 2112
+SHA256: 7e5f461e6f22203f82543bd52eb01e1bbb63de4aadef527397837ffeec630ba4
+SHA1: 68ce1844f9c48125d1d44aa87627dc5ac2ed87f4
+MD5sum: 7d8b5050ee2a6450df07e355c2729f80
+Description: Simple lockscreen launcher for Eliza GNU/Linux
+ Locks the screen using xscreensaver.
+
+Package: eliza-spacefun
+Version: 1.0~rc1
+Architecture: all
+Maintainer: Elizabeth <Elizabeth@eliza-linux.org>
+Depends: plymouth
+Priority: optional
+Section: admin
+Filename: pool/main/e/eliza-spacefun/eliza-spacefun_1.0~rc1_all.deb
+Size: 3372420
+SHA256: c959456576f36acc2f86894f43c5f267fa0862527eb5b71d3e0d7f4cf11621de
+SHA1: 62c11fe6e8fffca01f7c89516b44e1d45c7d9f6d
+MD5sum: f7d8a58a996ac197ef507d03391eff0b
+Description: Eliza Linux Plymouth theme (spacefun based)
+ A rebranded version of Debian's spacefun Plymouth theme
+ with custom background and logo for Eliza Linux.
+
+Package: eliza-themes
+Version: 1.0~rc1
+Architecture: all
+Maintainer: Elizabeth <elizabeth@eliza-linux.org>
+Depends: enlightenment-data, lightdm-gtk-greeter
+Homepage: https://eliza-linux.org
+Bugs: bugs@eliza-linux.org
+Priority: optional
+Section: utils
+Filename: pool/main/e/eliza-themes/eliza-themes_1.0~rc1_all.deb
+Size: 8835188
+SHA256: 079de542ca08a7c0f458db85a41428b45fa7cf7a5ec929de06e07408f5fdf2d5
+SHA1: 717ec6bf2dd8a0de864e859b65dd5a1b1762c23b
+MD5sum: 2a2144af694c3dd4a4b5a4a437b22c9e
+Description: Blossom themes and desktop profiles for Eliza GNU/Linux
+ Installs system-wide Enlightenment profiles and desktop backgrounds.  
+ Ensures Blossom visual defaults are applied.
+
+Package: eliza-user-manager
+Version: 1.0~rc1
+Architecture: all
+Maintainer: Elizabeth <elizabeth@eliza-linux.org>
+Depends: python3, python3-gi, gir1.2-gtk-3.0
+Installed-Size: 44
+Origin: Eliza GNU/Linux
+Bugs: bugs@eliza-linux.org
+Homepage: https://eliza-linux.org/
+Priority: optional
+Section: admin
+Filename: pool/main/e/eliza-user-manager/eliza-user-manager_1.0~rc1_all.deb
+Size: 5052
+SHA256: 6633a2c5ef45d69813128e91b988245c1210b0231cc29896dbb8e84841feb29c
+SHA1: a3e15d195501e0a6922db090840e3fc1862fa059
+MD5sum: 06bcc6287a1cc24bb5453ed162c7c1f7
+Description: A simple GUI user manager
+ A small GUI tool for managing Eliza GNU/Linux user accounts.
+
