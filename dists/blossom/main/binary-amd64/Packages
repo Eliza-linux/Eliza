@@ -70,18 +70,18 @@ Description: Simple cursor settings app for Eliza GNU/Linux
  A lightweight GTK3 Python app to adjust cursor themes and sizes.
 
 Package: eliza-desktop-base
-Version: 1.0~rc1
+Version: 1.0~rc1-1
 Architecture: all
 Maintainer: Elizabeth <Elizabeth@eliza-linux.org>
-Depends: enlightenment, connman, xserver-xorg-core, xserver-xorg-video-all, xserver-xorg-input-all, lightdm-gtk-greeter-settings, accountsservice, eliza-themes, eliza-grub-conf, eliza-apt, eliza-spacefun, system-config-printer, l3afpad
+Depends: enlightenment, connman, xserver-xorg-core, xserver-xorg-video-all, 7zip, arandr, htop, qalculate-gtk, rfkill, partitionmanager, hardinfo2, avahi-daemon, beautyline-icon-theme, eliza-user-manager, wireless-regdb, adwaita-icon-theme-legacy, lightdm, lightdm-gtk-greeter, sudo, xarchiver, xcursor-themes, wpasupplicant, blueman, bluez, terminology, xserver-xorg-input-all, lightdm-gtk-greeter-settings, accountsservice, eliza-themes, eliza-grub-conf, eliza-apt, eliza-spacefun, system-config-printer, l3afpad
 Suggests: vim, htop, wget
 Priority: optional
 Section: metapackages
-Filename: pool/main/e/eliza-desktop-base/eliza-desktop-base_1.0~rc1_all.deb
-Size: 2052
-SHA256: 2fd70925afce52377c4da7901163b09782e80945124957fd492ceb724c8963e7
-SHA1: 22dc72034d2544129476f3256c860a9bd985b14a
-MD5sum: b36e9d15c10917db5691982bd793dbce
+Filename: pool/main/e/eliza-desktop-base/eliza-desktop-base_1.0~rc1-1_all.deb
+Size: 2204
+SHA256: d9f09767f2e1375d1d78b8c13d5ce955318e05615e7a2c4e85dfba92ff2371cf
+SHA1: 8475d80ceaee1e668c08bbc2f9912321445c1093
+MD5sum: b01d58e7c904223b53d3f577f4912a9f
 Description: Eliza Linux desktop base
  A meta-package that installs the essential packages for a functional
  Enlightenment desktop environment in Eliza Linux, along with Eliza-specific
@@ -138,7 +138,7 @@ Description: Eliza Linux Plymouth theme (spacefun based)
  with custom background and logo for Eliza Linux.
 
 Package: eliza-themes
-Version: 1.0~rc1
+Version: 1.0~rc1-1
 Architecture: all
 Maintainer: Elizabeth <elizabeth@eliza-linux.org>
 Depends: enlightenment-data, lightdm-gtk-greeter
@@ -146,11 +146,11 @@ Homepage: https://eliza-linux.org
 Bugs: bugs@eliza-linux.org
 Priority: optional
 Section: utils
-Filename: pool/main/e/eliza-themes/eliza-themes_1.0~rc1_all.deb
-Size: 8835188
-SHA256: 079de542ca08a7c0f458db85a41428b45fa7cf7a5ec929de06e07408f5fdf2d5
-SHA1: 717ec6bf2dd8a0de864e859b65dd5a1b1762c23b
-MD5sum: 2a2144af694c3dd4a4b5a4a437b22c9e
+Filename: pool/main/e/eliza-themes/eliza-themes_1.0~rc1-1_all.deb
+Size: 8842044
+SHA256: b780244e75dfbd832bb607cd466c4cf113fecd6f711d8407b74dd06afb7a042c
+SHA1: d8b6d6d7b4f23457f85bf86b269c13a2e922b4c2
+MD5sum: a1fad85c4227ac8644cec6ac2685a8fa
 Description: Blossom themes and desktop profiles for Eliza GNU/Linux
  Installs system-wide Enlightenment profiles and desktop backgrounds.  
  Ensures Blossom visual defaults are applied.
