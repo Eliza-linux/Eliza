@@ -156,7 +156,7 @@ Description: Blossom themes and desktop profiles for Eliza GNU/Linux
  Ensures Blossom visual defaults are applied.
 
 Package: eliza-user-manager
-Version: 1.0~rc1
+Version: 1.0~rc1-1
 Architecture: all
 Maintainer: Elizabeth <elizabeth@eliza-linux.org>
 Depends: python3, python3-gi, gir1.2-gtk-3.0
@@ -166,11 +166,11 @@ Bugs: bugs@eliza-linux.org
 Homepage: https://eliza-linux.org/
 Priority: optional
 Section: admin
-Filename: pool/main/e/eliza-user-manager/eliza-user-manager_1.0~rc1_all.deb
-Size: 5052
-SHA256: 6633a2c5ef45d69813128e91b988245c1210b0231cc29896dbb8e84841feb29c
-SHA1: a3e15d195501e0a6922db090840e3fc1862fa059
-MD5sum: 06bcc6287a1cc24bb5453ed162c7c1f7
+Filename: pool/main/e/eliza-user-manager/eliza-user-manager_1.0~rc1-1_all.deb
+Size: 5088
+SHA256: 465cbc3bd9c3c1c64e661fe92455aba9938d07f9dba44eb3d4979f195549b1cc
+SHA1: bbf507f52ca4cc2c8e0ebea5dd3d38d8f54df48f
+MD5sum: 099d52da01528f4f9f8109a80be8b35f
 Description: A simple GUI user manager
  A small GUI tool for managing Eliza GNU/Linux user accounts.
 
