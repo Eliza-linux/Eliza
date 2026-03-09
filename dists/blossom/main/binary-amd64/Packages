@@ -138,7 +138,7 @@ Description: Eliza Linux Plymouth theme (spacefun based)
  with custom background and logo for Eliza Linux.
 
 Package: eliza-themes
-Version: 1.0~rc1-1
+Version: 1.0~rc1-2
 Architecture: all
 Maintainer: Elizabeth <elizabeth@eliza-linux.org>
 Depends: enlightenment-data, lightdm-gtk-greeter
@@ -146,11 +146,11 @@ Homepage: https://eliza-linux.org
 Bugs: bugs@eliza-linux.org
 Priority: optional
 Section: utils
-Filename: pool/main/e/eliza-themes/eliza-themes_1.0~rc1-1_all.deb
-Size: 8842044
-SHA256: b780244e75dfbd832bb607cd466c4cf113fecd6f711d8407b74dd06afb7a042c
-SHA1: d8b6d6d7b4f23457f85bf86b269c13a2e922b4c2
-MD5sum: a1fad85c4227ac8644cec6ac2685a8fa
+Filename: pool/main/e/eliza-themes/eliza-themes_1.0~rc1-2_all.deb
+Size: 8841928
+SHA256: 1b8c50d71ef220ad232dad55d5fb3b78d1b8e212d196dda974e5bc0a9082c90c
+SHA1: 10f235eb827756f885c3eadcb59511ac575d55a9
+MD5sum: 95d3f1cc5171a3c1c561b563bf57b836
 Description: Blossom themes and desktop profiles for Eliza GNU/Linux
  Installs system-wide Enlightenment profiles and desktop backgrounds.  
  Ensures Blossom visual defaults are applied.
